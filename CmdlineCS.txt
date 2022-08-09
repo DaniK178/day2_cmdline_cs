@@ -35,3 +35,10 @@ git commit: this keeps track and creates a record of the files that have been ch
 git log: allows to you to review the changes made to your file
 git revert: this will allow you to undo a previous commit
 
+Git repository commands
+
+Git remote: allows you to link your local repository to Github
+Git push: allows you to upload our code
+Git pull: enables you to download code
+Git clone: makes a copy of the a repository in a new location
+
