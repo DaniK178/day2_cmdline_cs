@@ -13,3 +13,6 @@ open : this opens a file.
 mv - this allows you to move a file, it also allows you rename the file if you move a file to another file.
 cp - copy: copies a file, or directory with -r added
 rm - remove: removes a file, or directory with -r added.
+
+Clear - this will clear the current screen of your terminal, however you can still scroll upwards se see your previous code.
+
