@@ -4,3 +4,12 @@ pwd - print working directory: To see which folder we are currently in.
 ls- list: Use this to find out what else in in our currently directory. However it doesn’t show all files.
 cd - change directory - moves you into another directory.
 ., .., … : allows you to go navigate directories, . - is the current directory, ..- one level up, … - two levels up and so on.
+
+File/directory modification 
+
+mkdir - make directory: this creates a directory
+touch - this is usually for updating the modified date of a file, however when a file doesn’t exist it will create the file.
+open : this opens a file.
+mv - this allows you to move a file, it also allows you rename the file if you move a file to another file.
+cp - copy: copies a file, or directory with -r added
+rm - remove: removes a file, or directory with -r added.
