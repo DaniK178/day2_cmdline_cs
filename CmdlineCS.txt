@@ -16,3 +16,13 @@ rm - remove: removes a file, or directory with -r added.
 
 Clear - this will clear the current screen of your terminal, however you can still scroll upwards se see your previous code.
 
+Flags 
+
+Man Ls - manual - lists and explains the different flags that can be added
+Ls -l: the flag -l added to ls , will give us more  information on the directory, such as file size and recent modification.
+Ls -a: shows hidden files in the directory
+Ls -al: shows a list of all the files/folders as well as hidden files in the directory
+-r: recursive, this makes ongoing commands, we add this flag to commands such as CP and RM for the command to apply to the directory and its sub-directories.
+-f: allows you to to bypass confirmation notifications such as when deleting 
+-m: allows you to add a message 
+
