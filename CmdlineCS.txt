@@ -26,3 +26,12 @@ Ls -al: shows a list of all the files/folders as well as hidden files in the dir
 -f: allows you to to bypass confirmation notifications such as when deleting 
 -m: allows you to add a message 
 
+Git Commands
+
+git init - initialise: creates a new git repository 
+git status: allows you to review the status of files, allowing you to check what has been modified.
+git add: allows us to stage a file, which adds the changes made, like a snapshot, before committing
+git commit: this keeps track and creates a record of the files that have been changed, as well as a message of what has been modified.
+git log: allows to you to review the changes made to your file
+git revert: this will allow you to undo a previous commit
+
