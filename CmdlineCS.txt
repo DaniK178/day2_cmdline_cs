@@ -1,0 +1,6 @@
+Terminal navigation 
+
+pwd - print working directory: To see which folder we are currently in.
+ls- list: Use this to find out what else in in our currently directory. However it doesn’t show all files.
+cd - change directory - moves you into another directory.
+., .., … : allows you to go navigate directories, . - is the current directory, ..- one level up, … - two levels up and so on.
